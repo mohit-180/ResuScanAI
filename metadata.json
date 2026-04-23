@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "Analyze resume text using AI to get ATS scores, skill breakdowns, and improvement suggestions with a modern dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
